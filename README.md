@@ -8,6 +8,8 @@
 • LED power indicator<br>
 
 <img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/PP.jpg"/>
+<img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/pcbs.jpg"/>
+
 
 # PARTS:
 Notes: Voltage divider is currently dsigned vor 10v max. <br>
