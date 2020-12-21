@@ -41,7 +41,7 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 # OPERATION
 Connect the battery. The device is powered on and the LED is showing the battery status as follows: <br>
 + GREEN: voltage is 4.20 - 3.65v per cell (full)<br>
-+ YELLOW: voltage is 3.64- 3.45v per cell (two third)<br>
++ YELLOW: voltage is 3.64- 3.45v per cell (half)<br>
 + RED: voltage is 3.44 - alarmvoltage (one third)<br>
 + BLINKING RED and beeping: voltage is below alarm voltage<br>
 <br>
