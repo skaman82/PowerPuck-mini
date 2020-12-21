@@ -30,6 +30,7 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 •: 		ATTINY85 SOIC8 (1x)<br><br>
 
 ## Additional
++ Produced PCB (0.8-1mm thicknes required for the case)<br>
 + U3V12F9		Pololu 9V Step-Up<br>
 + Printed case parts<br>
 + ISP flashing tool (and clamp) like USBTinyISP<br>
