@@ -34,7 +34,7 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 + U3V12F9		Pololu 9V Step-Up<br>
 + Printed case parts (use PETG because of the heat from the step-up. TPU for the relief)<br>
 + ISP flashing tool (and SOIC8 clamp) like USBTinyISP<br>
-+ 1.5m 5.5 x 2.1 DC cable like this: https://www.ebay.de/itm/0-50-1-00-1-50-m-USB-DC-Kabel-5-5-x-2-1-2-5-mm-Winkelstecker-CU-15855/293148509182<br>
++ 1.5m 5.5 x 2.1 DC cable like this: https://www.ebay.de/itm/0-50-1-00-1-50-m-USB-DC-Kabel-5-5-x-2-1-2-5-mm-Winkelstecker-CU-15855/293148509182 (cut the USB and replace it with your own connector)<br>
 + 2S li-ion battery pack. 3500mah 18650 will last about 3.5h, 5000mah 21700 will last about 5h. 18650 DIY battery case see the V1: https://github.com/skaman82/PowerPuck<br>
 
 
