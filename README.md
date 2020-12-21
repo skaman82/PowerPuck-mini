@@ -1,5 +1,5 @@
 # PowerPuck-mini
-2S Li-Ion power system for FPV Goggles (allows the use of full capacity potantion of li-ion cells)
+2S Li-Ion power system for FPV Goggles (allows the use of full capacity potential of li-ion cells)
 
 # Features:
 • 9V Step-Up from a 2S source <br>
