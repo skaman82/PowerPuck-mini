@@ -26,6 +26,8 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 •: 		ATTINY85 SOIC8 (1x)<br>
 U3V12F9		Pololu 9V Step-Up<br><br>
 
+DIY battery case see the V1: https://github.com/skaman82/PowerPuck<br>
+
 Notes: Voltage divider is currently constructed vor 10v max. <br>
 
 # OPERATION
