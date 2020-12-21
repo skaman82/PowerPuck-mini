@@ -46,10 +46,9 @@ Connect the battery. The device is powered on and the LED is showing the battery
 - Press the button for 2 sek. to enter the setup-menu<br>
 <br>
 SETUP MENU:<br>
-- Press the button to toggle between settings:<br>
+Press the button to toggle between settings:<br>
 
 • GREEN: voltage alarm at 3.35v per cell<br>
 • YELLOW: voltage alarm at 3.25v per cell<br>
 • RED: voltage alarm at at 3.15v per cell<br>
-
 - Press the button for 2 sek. to save your alarm setting <br>
