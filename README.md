@@ -24,7 +24,9 @@ S1: 		MOMENTARY-SWITCH SMD 5.2MM (1x)<br>
 U1: 		WS2812-2020 LED (1x)<br>
 U2: 		LP2985 5V LDO Reg (1x)<br>
 •: 		ATTINY85 SOIC8 (1x)<br>
-U3V12F9		Pololu 9V Step-Up<br><br>
+U3V12F9		Pololu 9V Step-Up<br>
++ Printed case parts<br>
++ ISP flashing tool (and clamp) like USBTinyISP<br><br>
 
 DIY battery case see the V1: https://github.com/skaman82/PowerPuck<br>
 
