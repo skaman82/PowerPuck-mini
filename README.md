@@ -22,8 +22,8 @@ C4: 		2.2uF C0805 Capacitor (1x)<br>
 LS1: 		Speaker CSS-0575B-SMT (1x)<br>
 Q1, Q2:		BC848 30V 100mA SOT23-3 Transistor (2x)<br>
 Q3: 		IRLML6402 Power Mosfet (1x)<br>
-R5, R8, R9:	5k6 R0603 Resistor (3x)<br>
-R7: 		10k R0603 Resistor (1x)<br>
+R8, R9:	  5k6 R0603 Resistor (2x)<br>
+R7, R5: 		10k R0603 Resistor (2x)<br>
 S1: 		MOMENTARY-SWITCH SMD 5.2MM (1x)<br>
 U1: 		WS2812-2020 LED (1x)<br>
 U2: 		LP2985 5V LDO Reg (1x)<br>
