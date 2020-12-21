@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/PP.jpg"/>
 
 # PARTS:
-
+## PCB
 C1,C5: 		100nF C0603 Capacitor (2x)<br>
 C2: 		10nF C0805 Capacitor (1x)<br>
 C3: 		1uF C0805 Capacitor 25V (1x)<br>
@@ -24,6 +24,8 @@ S1: 		MOMENTARY-SWITCH SMD 5.2MM (1x)<br>
 U1: 		WS2812-2020 LED (1x)<br>
 U2: 		LP2985 5V LDO Reg (1x)<br>
 •: 		ATTINY85 SOIC8 (1x)<br><br>
+
+## Additional
 + U3V12F9		Pololu 9V Step-Up<br>
 + Printed case parts<br>
 + ISP flashing tool (and clamp) like USBTinyISP<br><br>
