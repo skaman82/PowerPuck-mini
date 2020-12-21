@@ -41,6 +41,12 @@ Connect the battery. The device is powered on and the LED is showing the battery
 + YELLOW: volatge is 3.64- 3.45v per cell (two third)<br>
 + RED: volatge is 3.44 - alarmvoltage (one third)<br>
 + BLINKING RED and beeping: voltage is below alarm voltage<br>
-<br><br>
-- Press the button onece to toggle in between ON and OFF state.<br>
-- Press the button for 2 sek. to enter the setup-menu
+<br>
+- Press the button once to toggle between ON and OFF state.<br>
+- Press the button for 2 sek. to enter the setup-menu<br>
+<br>
+SETUP MENU:<br>
+• GREEN: voltage alarm at 3.35v per cell<br>
+• YELLOW: voltage alarm at 3.25v per cell<br>
+• RED: voltage alarm at at 3.15v per cell<br>
+• Press the button for 2 sek. to save your alarm setting <br>
