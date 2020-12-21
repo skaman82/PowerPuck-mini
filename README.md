@@ -1,7 +1,7 @@
 # PowerPuck-mini
 2S Li-Ion power system for FPV Goggles 
 
-#Features:
+# Features:
 • 9V Step-Up from a 2S source <br>
 • On/off button<br>
 • Adjustable low-voltage alarm<br>
@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/PP.jpg"/>
 
-#PARTS:
+# PARTS:
 
 C1,C5: 		100nF C0603 Capacitor (2x)<br>
 C2: 		10nF C0805 Capacitor (1x)<br>
