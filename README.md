@@ -5,7 +5,7 @@
 • 9V Step-Up from a 2S source <br>
 • On/off button<br>
 • Adjustable low-voltage alarm<br>
-• LED power indicator<br>
+• LED power and capacity indicator<br>
 
 <img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/PP.jpg"/>
 <img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/pcbs.jpg"/>
