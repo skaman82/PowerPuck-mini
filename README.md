@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/skaman82/PowerPuck-mini/master/img/PP.jpg"/>
 
 # PARTS:
-Notes: Voltage divider is currently constructed vor 10v max. <br>
+Notes: Voltage divider is currently dsigned vor 10v max. <br>
 
 ## PCB
 C1,C5: 		100nF C0603 Capacitor (2x)<br>
