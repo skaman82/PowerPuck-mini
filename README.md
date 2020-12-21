@@ -51,4 +51,4 @@ Press the button to toggle between settings:<br>
 • GREEN: voltage alarm at 3.35v per cell<br>
 • YELLOW: voltage alarm at 3.25v per cell<br>
 • RED: voltage alarm at at 3.15v per cell<br>
-- Press the button for 2 sek. to save your alarm setting <br>
+- Press the button for 2 sek. to save your alarm setting and exit the setup menu <br>
