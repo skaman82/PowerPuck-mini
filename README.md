@@ -27,3 +27,6 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 U3V12F9		Pololu 9V Step-Up<br><br>
 
 Notes: Voltage divider is currently constructed vor 10v max. <br>
+
+# OPERATION
+tbd.
