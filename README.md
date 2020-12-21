@@ -1,5 +1,5 @@
 # PowerPuck-mini
-2S Li-Ion power system for FPV Goggles (allows the use of full capacity potential of li-ion cells)
+2S Li-Ion power system for FPV goggles (allows the use of full capacity potential of li-ion cells)
 
 # Features:
 • 9V Step-Up from a 2S source <br>
@@ -36,4 +36,11 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 
 
 # OPERATION
-tbd.
+Connect the battery. The device is powered on and the LED is showing the battery status as follows: <br>
++ GREEN: volatge is 4.20 - 3.65v per cell (full)<br>
++ YELLOW: volatge is 3.64- 3.45v per cell (two third)<br>
++ RED: volatge is 3.44 - alarmvoltage (one third)<br>
++ BLINKING RED and beeping: voltage is below alarm voltage<br>
+<br><br>
+- Press the button onece to toggle in between ON and OFF state.<br>
+- Press the button for 2 sek. to enter the setup-menu
