@@ -30,8 +30,8 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 ## Additional
 + U3V12F9		Pololu 9V Step-Up<br>
 + Printed case parts<br>
-+ ISP flashing tool (and clamp) like USBTinyISP<br><br>
-+ 1.5m 5.5 x 2.1 DC cable like this: https://www.ebay.de/itm/0-50-1-00-1-50-m-USB-DC-Kabel-5-5-x-2-1-2-5-mm-Winkelstecker-CU-15855/293148509182
++ ISP flashing tool (and clamp) like USBTinyISP<br>
++ 1.5m 5.5 x 2.1 DC cable like this: https://www.ebay.de/itm/0-50-1-00-1-50-m-USB-DC-Kabel-5-5-x-2-1-2-5-mm-Winkelstecker-CU-15855/293148509182<br>
 DIY battery case see the V1: https://github.com/skaman82/PowerPuck<br>
 
 
