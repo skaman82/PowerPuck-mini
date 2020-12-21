@@ -12,7 +12,7 @@
 
 
 # PARTS:
-Notes: Voltage divider is currently dsigned vor 10v max. <br>
+Notes: Voltage divider is currently dsigned for 10v max. <br>
 
 ## PCB
 C1,C5: 		100nF C0603 Capacitor (2x)<br>
