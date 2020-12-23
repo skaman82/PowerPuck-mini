@@ -39,7 +39,7 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 
 # ASSEMBLY
 + Solder all the SMD parts and the step-up to the PCB
-+ Compile and flash the code with ArduinoIDE using an ISP programmer
++ Compile and flash the code with ArduinoIDE using an ISP programmer (use the right hardware package mentioned in the code)
 + Connect to a 2S power source and test if everything
 + Solder on the cables, put it in the pinted case and glue it together
 
