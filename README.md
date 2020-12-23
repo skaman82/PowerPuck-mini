@@ -12,7 +12,7 @@
 
 
 # PARTS:
-Notes: Voltage divider is currently dsigned for 10v max. <br>
+Notes: Voltage divider is currently designed for 10v max. <br>
 
 ## PCB
 C1,C5: 		100nF C0603 Capacitor (2x)<br>
@@ -37,6 +37,11 @@ U2: 		LP2985 5V LDO Reg (1x)<br>
 + 1.5m 5.5 x 2.1 DC cable like this: https://www.ebay.de/itm/0-50-1-00-1-50-m-USB-DC-Kabel-5-5-x-2-1-2-5-mm-Winkelstecker-CU-15855/293148509182 (cut the USB and replace it with your own connector)<br>
 + 2S li-ion battery pack. 3500mah 18650 will last about 3.5h, 5000mah 21700 will last about 5h. 18650 DIY battery case see the V1: https://github.com/skaman82/PowerPuck<br>
 
+# ASSEMBLY
++ Solder all the SMD parts and the step-up to the PCB
++ Compile and flash the code with ArduinoIDE using an ISP programmer
++ Connect to a 2S power source and test if everything
++ Solder on the cables, put it in the pinted case and glue it together
 
 # OPERATION
 Connect the battery. The device is powered on and the LED is showing the battery status as follows: <br>
